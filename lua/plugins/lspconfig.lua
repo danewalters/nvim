@@ -35,8 +35,13 @@ local lua_ls = function ()
   }
 end
 
+local clangd = function ()
+  require'lspconfig'.clangd.setup{}
+end
+
 M.config = function()
   lua_ls()
+  clangd()
 end
 
 return M
