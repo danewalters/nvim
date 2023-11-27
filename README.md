@@ -2,6 +2,8 @@
 
 Welcome to my personal Neovim configuration repository. This configuration is entirely written in Lua and uses **`lazy.nvim`** as the plugin manager.
 
+![nvim-img](https://danewalters.oss-cn-chengdu.aliyuncs.com/Screenshot%202023-11-27%20at%2020.35.38.png)
+
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit/) file for details.
