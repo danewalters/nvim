@@ -39,9 +39,14 @@ local clangd = function ()
   require'lspconfig'.clangd.setup{}
 end
 
+local denols = function ()
+  require'lspconfig'.denols.setup{}
+end
+
 M.config = function()
   lua_ls()
   clangd()
+  denols()
 end
 
 return M
