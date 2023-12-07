@@ -4,6 +4,8 @@ vim.wo.relativenumber = true
 
 vim.o.clipboard = "unnamedplus"
 
+vim.o.mouse = ""
+
 
 vim.cmd [[
   augroup LuaSettings
