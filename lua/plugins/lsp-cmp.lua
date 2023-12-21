@@ -54,6 +54,7 @@ M.config = function()
       {name = 'buffer'},
       {name = 'path'},
       {name = "crates"},
+      {name = "copilot"}
     },
   })
 
