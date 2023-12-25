@@ -4,10 +4,6 @@ Welcome to my personal Neovim configuration repository. This configuration is en
 
 ![nvim-img](https://danewalters.oss-cn-chengdu.aliyuncs.com/Screenshot%202023-11-27%20at%2020.35.38.png)
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit/) file for details.
-
 ## **Installation**
 
 To use this configuration, clone this repository into your Neovim configuration directory:
