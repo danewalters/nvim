@@ -1,5 +1,5 @@
 -- nvim tree
-vim.api.nvim_set_keymap('n', 'tr', ':NvimTreeToggle<CR>', {noremap = true, silent = true})
+vim.api.nvim_set_keymap('n', '<leader>tr', ':NvimTreeToggle<CR>', {noremap = true, silent = true})
 
 -- nvim telescope
 local builtin = require('telescope.builtin')
