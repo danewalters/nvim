@@ -14,6 +14,7 @@
   "dashboard-nvim": { "branch": "master", "commit": "63df28409d940f9cac0a925df09d3dc369db9841" },
   "dracula.nvim": { "branch": "main", "commit": "084cb4a282b2cb51d1c1c76c377abe08d0649818" },
   "fidget.nvim": { "branch": "main", "commit": "a1493d94ecb3464ab3ae4d5855765310566dace4" },
+  "gruvbox.nvim": { "branch": "main", "commit": "f0e029a3989691eb38cfa9272b75251c62a00821" },
   "lazy.nvim": { "branch": "main", "commit": "96584866b9c5e998cbae300594d0ccfd0c464627" },
   "lualine.nvim": { "branch": "master", "commit": "2248ef254d0a1488a72041cfb45ca9caada6d994" },
   "mason.nvim": { "branch": "main", "commit": "41e75af1f578e55ba050c863587cffde3556ffa6" },
