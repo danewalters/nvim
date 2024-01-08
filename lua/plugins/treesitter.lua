@@ -10,7 +10,7 @@ M.config = function()
   local configs = require('nvim-treesitter.configs')
 
   configs.setup({
-    ensure_installed = { 'rust', 'lua', 'typescript', 'javascript', 'elixir', 'c' },
+    ensure_installed = { 'rust', 'lua', 'typescript', 'javascript', 'elixir', 'c', 'astro' },
     sync_install = false,
     highlight = { enable = true },
     indent = { enable = true },

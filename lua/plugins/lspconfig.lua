@@ -43,10 +43,15 @@ local denols = function ()
   require'lspconfig'.denols.setup{}
 end
 
+local astro = function ()
+  require'lspconfig'.astro.setup{}
+end
+
 M.config = function()
   lua_ls()
   clangd()
   denols()
+  astro()
 end
 
 return M
